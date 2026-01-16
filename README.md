@@ -7,8 +7,8 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
-https://developer.android.com/develop/ui/views/components/button
+Buttons: https://developer.android.com/develop/ui/views/components/button
+Constraint Layout: https://developer.android.com/develop/ui/views/layout/constraint-layout
 
 ## Verbal Collaboration
 
